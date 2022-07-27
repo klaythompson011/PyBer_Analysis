@@ -50,7 +50,7 @@ respectively. However, total fares in urban cities were only 2 and 9 times that 
 
 •	Include additional metrics, such as mileage per ride and fare per mile, to assist with pricing and profitability analysis. 
 
-•	Review total number of drivers in each type of city to determine sufficient availability. In urban cities, total drivers exceed total rides by 
-approximately 1.5 times. The opposite is true for rural cities, in which total rides exceeds total drivers.
+•	Review total number of drivers in each type of city to determine sufficient availability. In urban cities, total drivers exceeded total rides by 
+approximately 1.5 times. The opposite is true for rural cities, in which total rides exceeded total drivers.
 
 
