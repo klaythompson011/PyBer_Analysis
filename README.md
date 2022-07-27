@@ -22,7 +22,7 @@ dividing total fares by city type by total drivers by city type.
 
 A new dataframe was created to summarize the results. 
 
-![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
+![pyber_analysis](Resources/pyber_analysis.png)
 
 The number of rides for urban cities was 1,625, approximately 2.5 times the number of rides for suburban cities and 13 times that for rural areas. 
 However, total fares for urban cities was only 2 times that of suburban cities and 9 times that of rural cities. Accordingly, the average fare per ride 
@@ -33,7 +33,7 @@ significantly higher for rural cities at $55.49 as compared to $16.57 for urban 
 Further, using the loc() function, the data was filtered for dates between January 1, 2019 and April 29, 2019. Applying the resample() function, the data 
 was distributed based on a weekly frequency and then plotted using df.plot().  
 
-![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
+![total_fare_type_graph](Resources/total_fare_type_graph.png)
 
 The line graph shows that for urban cities, total weekly fares ranged from approximately $1,600 to $2,500, with peaks occurring in late February and 
 early March. For suburban cities, total weekly fares ranged between $700 and $1,500, with highest fares recorded in late February and again in late 
